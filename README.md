@@ -1,1 +1,2 @@
 # personal_helper
+这个人设计开发的私人助理软件
